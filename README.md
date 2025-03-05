@@ -91,6 +91,7 @@ Main --> Mensagem : "Cria e envia mensagem decorada"
 ```
 
 ### Estrutura 
+![image](https://github.com/user-attachments/assets/d06c0d7f-f242-451e-9513-1b2ac2a284bb)
 
 
 ### Participantes
